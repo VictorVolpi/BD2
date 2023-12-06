@@ -1,0 +1,25 @@
+
+CREATE DATABASE bdEtecMerge
+
+GO
+
+USE bdEtecMerge
+
+CREATE TABLE tb2A (
+	rmAluno INT PRIMARY KEY IDENTITY(1,2)
+	,nomeAluno VARCHAR(40) NOT NULL
+	,statusAluno VARCHAR(15) NOT NULL
+)
+
+CREATE TABLE tb2B (
+	rmAluno INT PRIMARY KEY IDENTITY(2,2)
+	,nomeAluno VARCHAR(40) NOT NULL
+	,statusAluno VARCHAR(15) NOT NULL
+)
+
+CREATE TABLE tb3(
+	rmAluno INT PRIMARY KEY NOT NULL
+	,nomeAluno VARCHAR(40) NOT NULL
+	,statusAluno VARCHAR(15) NOT NULL
+)
+
