@@ -92,17 +92,18 @@
 ⏺︎ Confira meu projeto no GitHub: [Banco de dados para Etec.](https://github.com/VictorVolpi/BD2/tree/main/Atividade%20-%2010)<br>
 
 🟢 Atividade 11 → Prova de Banco de dados de InnerJoin e View.
-###  ⏺︎ Prova de InnerJoin
-      ⏺︎ Criação do Banco de dados.<br>
-        ○ Utilizando Create, Insert e InnerJoin.<br>
-        ○ Uso do Banco de dados.<br>
-        ○ Criação de Tabela.<br>
+
+⏺︎ Prova de InnerJoin<br>
+  ○  Criação do Banco de dados.<br>
+  ○ Utilizando Create, Insert e InnerJoin.<br> 
+  ○ Uso do Banco de dados.<br>
+  ○ Criação de Tabela.<br>
         
-  ###  ⏺︎ Prova de View
-        ⏺︎ Criação do Banco de dados.<br>
-          ○ Utilizando Create, Insert e View.<br>
-          ○ Uso do Banco de dados.<br>
-          ○ Criação de Tabela.<br>
+⏺︎ Prova de View<br>
+   ○ Criação do Banco de dados.<br>
+   ○ Utilizando Create, Insert e View.<br>
+   ○ Uso do Banco de dados.<br>
+   ○ Criação de Tabela.<br>
 
 ⏺︎ Confira meu projeto no GitHub: [Banco de dados efetuados em provas.](https://github.com/VictorVolpi/BD2/tree/main/PROVA)<br>
 
