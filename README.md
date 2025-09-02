@@ -70,7 +70,7 @@
   ○ Uso do Banco de dados.<br>
   ○ Criação de Tabela.<br>
 
-⏺︎ Confira meu projeto no GitHub: [Banco de dados para Universidade.](https://github.com/VictorVolpi/BD2/tree/main/Atividade%20-%208)<br>
+⏺︎ Confira meu projeto no GitHub: [Banco de dados para Escola de Idioma.](https://github.com/VictorVolpi/BD2/tree/main/Atividade%20-%208)<br>
 
 
 ### 🟢 Atividade 9 → Banco de dados para Confeitaria.
