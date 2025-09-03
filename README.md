@@ -1,3 +1,5 @@
+# ESCOLA TÉCNICA ESTADUAL → ETEC → BANCO DE DADOS → BD
+
 # Fundamentos de Banco de Dados: Do Zero ao Avançado.
 
 ### 🟢 Atividade 1 → Banco de dados para ONG.
